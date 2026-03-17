@@ -1,5 +1,5 @@
 # Ex14 Tracking the First Unique Number in a Stream using LinkedHashMap
-## DATE: 18-09-2025
+## DATE: 17.03.2026
 ## AIM:
 To implement a program that tracks the first unique (non-repeating) number in a stream of integers using a LinkedHashMap.
 
@@ -18,8 +18,8 @@ To implement a program that tracks the first unique (non-repeating) number in a 
 ```java
 /*
 Program to tracks the first unique (non-repeating) number in a stream of integers using a LinkedHashMap.
-Developed by: ROGITH GANESH.R
-Register Number: 212223100046
+Developed by: LOKESHWARAN S
+Register Number: 212224240080
 */
 
 import java.util.*;
